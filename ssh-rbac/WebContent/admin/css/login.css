@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+table{
+	width: 50%;
+	border:1px solid black;
+}
+tr{
+	heigth:100px;
+}
+.left{
+	text-align: right;
+	width:20%;
+}
+.right{
+	text-align: left;
+	width:80%;
+}
+
+input{
+	width:250px;
+	height:30px;
+}
+
